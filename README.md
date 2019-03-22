@@ -42,4 +42,4 @@ mvn clean package
 
 mvn exec:java
 
-curl -X GET http://localrization: opticks_auth_example1' -H 'Content-Type: application/json'
+curl -X GET http://localhost:7000/time -H 'Authorization: opticks_auth_example1' -H 'Content-Type: application/json'
