@@ -1,4 +1,4 @@
-# opticks-test
+# Opticks test
 
 repositorio para desarrollo de prueba tecnica para Opticks
 
@@ -36,7 +36,7 @@ Usar los Request Filters de Jersey 2 para hacer el rate limit.
 Hacer el proyecto en formato maven (usando un archivo pom.xml para la gestión del
 proyecto, el build y las dependencias)
 
-# Correr la prueba
+# Ejecutar la prueba
 
 mvn clean package
 
